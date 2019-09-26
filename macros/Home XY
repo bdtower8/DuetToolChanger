@@ -1,0 +1,5 @@
+;Home Y
+G28 Y
+
+;Home x
+G28 X

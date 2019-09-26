@@ -1,0 +1,5 @@
+; tool head monitoring
+M591 D0 P1 C3 S0
+M591 D1 P1 C3 S0
+M591 D2 P1 C3 S0
+M591 D3 P1 C3 S0

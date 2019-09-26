@@ -1,0 +1,3 @@
+M42 P100 S1; set pin high
+G4 P15; can be reduced with testing
+M42 P100 S0; camera triggers on falling edge

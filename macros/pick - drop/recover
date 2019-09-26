@@ -1,0 +1,6 @@
+M98 P/macros/pick - drop/Coupler - Unlock
+G28 Y;
+G28 Y;
+G28 X;
+G28 X;
+T-1;
